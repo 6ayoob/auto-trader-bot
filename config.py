@@ -1,5 +1,5 @@
-TELEGRAM_TOKEN = "ضع_توكن_البوت_هنا"
-ALLOWED_USER_IDS = [123456789]  # ضع معرفك هنا
+TELEGRAM_TOKEN = "7498081186:AAHL4G62zA_cc7CVtKmzsiY6MLxKvRM-fcc"
+ALLOWED_USER_IDS = [658712542]  # ضع معرفك هنا
 
-BYBIT_API_KEY = "ضع_مفتاح_API_من_Bybit"
-BYBIT_API_SECRET = "ضع_السر_API"
+BYBIT_API_KEY = "tLgcha0kFzPnjIKGhQ"
+BYBIT_API_SECRET = "YMeUOTHgyP59msCjxDfR0qAdHiCKJTo6ePSn"
