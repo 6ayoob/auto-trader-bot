@@ -1,0 +1,2 @@
+python-telegram-bot==20.3
+pybit==5.4.2
